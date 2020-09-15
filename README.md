@@ -1,1 +1,1 @@
-# Python-Panda3d-Gamess
+# Python-Panda3d-Games
